@@ -1,0 +1,5 @@
+1. Create a new public repo on GitHub called: cybersecurity-journey
+2. Upload everything in this folder (from your phone: Add file > Upload files).
+3. Put your TryHackMe profile link in README.md.
+4. After each room: copy writeups/TEMPLATE.md to a new file, for example writeups/2026-11-01-intro-to-nmap.md, fill it in, and add one row to the Progress table.
+5. Pin the repo on your GitHub profile.
